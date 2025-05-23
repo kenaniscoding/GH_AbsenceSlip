@@ -1,4 +1,7 @@
 # LSGH Absence Slip
+![image](https://github.com/user-attachments/assets/62821cd1-5264-45d2-a615-cd10ef594d85)
+
+![image](https://github.com/user-attachments/assets/03216361-0aea-4759-9573-d3d5e16cf2be)
 
 ## Features
 - Automatic Email to Parent/Student and Teacher
@@ -60,6 +63,12 @@ Next go to C:xampp\sendmail and open the `sendmail.ini` then go the `[sendmail]`
 [YouTube Video on Email Feature](https://youtu.be/KA2UB3pxEtg?si=2_AK-gLmpzjFWim0)
 
 ## Preview
+![image](https://github.com/user-attachments/assets/e1f8fb4a-c352-4f5c-9ddc-a93fba2d277d)
+
+![image](https://github.com/user-attachments/assets/f2cf3734-770b-4140-b9d9-84be989feaa7)
+
+![image](https://github.com/user-attachments/assets/4c4cda30-2f85-4819-b67c-949f9a608552)
+![image](https://github.com/user-attachments/assets/8b303060-9a44-41ac-9068-bf8ff70712d5)
 
 
 
